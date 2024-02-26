@@ -29,4 +29,4 @@ Arguments to adjust:
 
 ## Data
 
-The data used in this project is available [here](https://github.com/DARE-ML/neural-rev-jump-MCMC/Data_OneStepAhead) for regression and [here](https://github.com/DARE-ML/neural-rev-jump-MCMC/DATA) for classification
+The data used in this project is available [here](https://github.com/DARE-ML/neural-rev-jump-MCMC/tree/main/Data_OneStepAhead) for regression and [here](https://github.com/DARE-ML/neural-rev-jump-MCMC/tree/main/DATA) for classification
